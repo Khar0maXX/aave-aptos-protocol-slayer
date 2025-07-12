@@ -1,0 +1,12 @@
+{
+  "Result": {
+    "protocol_slayer": {
+      "network": "Local",
+      "has_private_key": true,
+      "public_key": "ed25519-pub-0x4070572c18ef16d16f63e34d8e277804fc02f456a2427cfb488d8f8312c8c88c",
+      "account": "63fd37ec3f00a5d7ff4980f2daf25d0d3a73e9ab58598661ec01e40fc39ca1af",
+      "rest_url": "http://localhost:8080",
+      "faucet_url": "http://localhost:8081"
+    }
+  }
+}
